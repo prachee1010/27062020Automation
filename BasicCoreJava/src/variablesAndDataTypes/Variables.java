@@ -9,7 +9,7 @@ public class Variables {
 		String name = "Prachee";
 		System.out.println(name);		
 	//int
-		int age = 25;				
+		int age = 25;
 	//boolean
 		boolean marital_status = false;		
 	//double
