@@ -7,12 +7,13 @@ public class Users {
 		sm.calling();
 		sm.texting();
 		sm.videoCall();
+//		sm.calling(2);;
 		
-		Mobile mb = new Mobile();
+/*		Mobile mb = new Mobile();
 		mb.calling();
 		mb.texting();
 		
 		Telephone tl = new Telephone();
-		tl.calling();
+		tl.calling();*/
 	}
 }

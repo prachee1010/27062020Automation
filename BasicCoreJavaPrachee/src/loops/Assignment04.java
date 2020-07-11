@@ -1,6 +1,6 @@
 package loops;
 
-public class Asssignment3 {
+public class Assignment04 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

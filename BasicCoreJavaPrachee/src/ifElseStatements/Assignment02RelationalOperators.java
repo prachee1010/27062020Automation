@@ -1,6 +1,6 @@
 package ifElseStatements;
 
-public class ifElseClass2RelationalOperators {
+public class Assignment02RelationalOperators {
 
 	public static void main(String[] args) {
 				

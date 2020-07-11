@@ -1,6 +1,6 @@
 package ifElseStatements;
 
-public class GreatestNumberPractice {
+public class Assignment03GreatestNumber {
 
 	public static void main(String[] args) {
 
