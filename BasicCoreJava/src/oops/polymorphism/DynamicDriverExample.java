@@ -10,7 +10,7 @@ public class DynamicDriverExample {
 		
 		//DynamicPolymorphism can be used to execute same script on different drivers 
 
-		Telephone obj = null;			//ref of WeDriver is made (parent)
+		Telephone obj = null;			//ref of WebDriver is made (parent)
 
 		String browserName = "Firefox";
 
