@@ -15,7 +15,7 @@ public class SetInterface {
 		set.add("Prachee");
 		set.add("Anand");
 		set.add("Ajink");
-		
+		set.add("Prachee");
 /*		for(String name: set) {
 			System.out.println(name);
 		}*/
