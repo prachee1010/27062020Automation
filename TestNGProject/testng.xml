@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite"> <!-- BeforeSuite -->
+  <test thread-count="5" name="Module 1"> <!-- BeforeTest -->
+    <classes>
+      <!-- BeforeClass -->
+      <class name="basicAnnotations.TestNgClass2"/>
+      		<!-- BeforeMethod -->
+      			<!-- Test Case -->
+      		<!-- AfterMethod -->
+      <!-- AfterClass -->
+  
+      <!-- BeforeClass -->
+      <class name="basicAnnotations.TestNGFirstClass"/>
+      <!-- AfterClass -->
+    </classes>
+  </test> <!-- AfterTest -->
+  
+  <test thread-count="5" name="Module 2">
+    <classes>
+      <class name="basicAnnotations.TestNgClass3"/>
+      <class name="basicAnnotations.TestNgClass4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
