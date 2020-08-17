@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/JarFiles/backport-util-concurrent-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/classworlds-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/classworlds-1.1-alpha-2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/cucumber-core-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/cucumber-java-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/cucumber-junit-1.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/jcommander-1.27.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/jcommander-1.64.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="D:/JarFiles/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

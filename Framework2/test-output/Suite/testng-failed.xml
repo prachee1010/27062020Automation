@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <classes>
+      <class name="testScripts.Motorcycle.EnterProductData">
+        <methods>
+          <include name="isCalendarButtonClickable"/>
+          <include name="initialize"/>
+          <include name="checkNextLabelInsSum"/>
+          <include name="tearDown"/>
+          <include name="validInsuranceDropDown"/>
+          <include name="validStartDateText"/>
+          <include name="validDamageInsuranceDropDownSelection"/>
+          <include name="verifyPrevButtonText"/>
+          <include name="launchBrowser"/>
+          <include name="beforeProductData"/>
+          <include name="verifyNextButtonText"/>
+        </methods>
+      </class> <!-- testScripts.Motorcycle.EnterProductData -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

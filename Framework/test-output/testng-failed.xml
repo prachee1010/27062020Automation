@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
-  <test name="Test(failed)">
-    <parameter name="browser" value="chrome"/>
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="browser" value="Chrome"/>
     <classes>
       <class name="testScripts.HomePage.HomePage">
         <methods>
-          <include name="isAutobileClickable"/>
-          <include name="isMotorCycleVisible"/>
+          <include name="verifyIsTruckClickable"/>
           <include name="initialize"/>
-          <include name="isAutomobileVisible"/>
-          <include name="isTruckVisible"/>
+          <include name="verifyIsMotorCycleVisible"/>
           <include name="tearDown"/>
           <include name="quitBrower"/>
+          <include name="verifyIsCamperVisible"/>
           <include name="launchBrowser"/>
-          <include name="isCamperVisible"/>
+          <include name="verifyIsAutobileClickable"/>
+          <include name="verifyIsAutomobileVisible"/>
+          <include name="verifyIsTruckVisible"/>
         </methods>
       </class> <!-- testScripts.HomePage.HomePage -->
     </classes>
